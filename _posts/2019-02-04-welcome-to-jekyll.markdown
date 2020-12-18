@@ -2,7 +2,7 @@
 layout: post
 title:  "Miranda J. Haus, PhD"
 categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+image: assets/images/MJH_Web1.jpg
 ---
 I study the effect abiotic and biotic stressors have on plant development. 
 
