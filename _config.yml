@@ -5,7 +5,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 email: 'hausmira@msu.edu'
-theme: Mudana
+theme: Mundana
 
 include: ["_pages"]
 permalink: /:title/
