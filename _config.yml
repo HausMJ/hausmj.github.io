@@ -4,8 +4,7 @@ description: 'This site is meant to communicate my research to the world.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-email: 'hausmj@msu.edu'
-twitter_username: @MJHaus
+email: 'hausmira@msu.edu'
 theme: Mudana
 
 include: ["_pages"]
