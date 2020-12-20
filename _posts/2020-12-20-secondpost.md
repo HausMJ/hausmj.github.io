@@ -15,7 +15,7 @@ This is how to add an image from another website:
 I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png).
 
 This is how to add an image from my folders:
-![alt text is MJHaus](assets/images/MJH_Web1.jpg)
+![alt text is MJHaus](assests/images/MJH_Web1.jpg)
 
 Horizontal rule:
 
