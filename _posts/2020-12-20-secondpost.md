@@ -14,6 +14,10 @@ This is how to add an image from another website:
 
 I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png).
 
+Attempt to display an image here.
+![GitHub Logo](/_data/images/MJH_Web1.jpg)
+
+
 Horizontal rule:
 
 --------------
