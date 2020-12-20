@@ -8,7 +8,8 @@ This page is reserved for project descriptions.
 ## Current Projects
 
 Current projects will have:
-1. short description,
+1. Pretty image
+2. short description,
 2. links to collaborators web pages and/or funding sources,
 3. Citations of publications that came from this project.
 
