@@ -1,5 +1,24 @@
 ---
 layout: home
 ---
+At the top, I want rolling pics of my work.
 
-Plant biologist who loves to study roots!
+Plant biologist who loves to study roots! I will expand on this intro to talk about beans!
+
+I need a pic of me here.
+
+## Summary of Research
+
+Short paragraph about my work.
+
+## Professional Goals
+
+What do I want to be when I grow up?
+
+### To Do:
+Sidebar with updated Twitter Feed?
+Links to other pages
+  - downloadable cv
+  - research integrity statement
+  - dei statement
+  
