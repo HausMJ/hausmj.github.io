@@ -1,7 +1,10 @@
-theme: "minimal"
-
 # Site Settings
-title: "M. J. Haus"
+title: M. J. Haus
 subtitle: "WIP" # site tagline that appears below site title in masthead
-name: "Miranda J. Haus name"
+author:
+  name: Miranda J. Haus name
+  email: hausmira@msu.edu
 description: "Trying to get a website going."
+
+# Build settings
+remote_theme: jekyll/minima
