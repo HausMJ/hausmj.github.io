@@ -10,5 +10,5 @@ description: "Trying to get a website going."
 remote_theme: jekyll/minima
 
 #Theme settings
-#minima:
-#  skin: dark
+minima:
+  skin: dark
