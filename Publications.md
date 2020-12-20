@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+---
+
+
 #Publication History
 ##Chosen publications.
 
