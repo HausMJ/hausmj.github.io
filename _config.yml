@@ -7,7 +7,7 @@ author:
 description: "Trying to get a website going."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: mmistakes/minimal-mistakes
 
 #Theme settings
 minima:
