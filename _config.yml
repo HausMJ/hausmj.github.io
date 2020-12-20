@@ -8,3 +8,7 @@ description: "Trying to get a website going."
 
 # Build settings
 remote_theme: jekyll/minima
+
+#Theme settings
+minima:
+  skin: dark
