@@ -1,13 +1,7 @@
-theme: "minima"
+theme: "minimal"
 
 # Site Settings
-locale: "en-US"
 title: "M. J. Haus"
-title_separator: "|"
 subtitle: "WIP" # site tagline that appears below site title in masthead
 name: "Miranda J. Haus name"
 description: "Trying to get a website going."
-url: "https://hausmj.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
-#repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-#teaser: "/assets/images/MJH_Web1.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
