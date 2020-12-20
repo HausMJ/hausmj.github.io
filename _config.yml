@@ -7,7 +7,7 @@ author:
 description: "Trying to get a website going."
 
 # Build settings
-remote_theme: jekyll-theme-merlot
+remote_theme: jekyll-simple
 
 #Theme settings
 #minima:
