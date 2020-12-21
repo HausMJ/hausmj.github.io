@@ -10,9 +10,8 @@ Pic of me!
 
 Editing a pic of me to be reasonable:
 
-<div style="width:150px; height:100px">
-![My Face]({{ site.url }}/assets/images/MJH_Web1.jpg)
-</div>
+<img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="MJHaus"
+	title="My face" width="150" height="100" />
 
 You can download my CV [here]({{ site.url }}/assets/Haus_CV.pdf).
 
