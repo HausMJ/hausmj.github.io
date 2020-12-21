@@ -9,11 +9,11 @@ I need a pic of me here.
 
 First attempt to display an image here.
 
-![My Face](../_data/images/MJH_Web1.jpg)
+![My Face](../assets/images/MJH_Web1.jpg)
 
 Second attempt
 
-![My Face]({{ site.url }}/_data/images/MJH_Web1.jpg)
+![My Face]({{ site.url }}/assets/images/MJH_Web1.jpg)
 
 ## Summary of Research
 
