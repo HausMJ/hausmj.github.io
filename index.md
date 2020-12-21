@@ -6,6 +6,11 @@ At the top, I want rolling pics of my work.
 Plant biologist who loves to study roots! I will expand on this intro to talk about beans!
 
 I need a pic of me here.
+First attempt to display an image here.
+![My Face](../_data/images/MJH_Web1.jpg)
+
+Second attempt
+({{ site.url }}/_data/images/MJH_Web1.jpg)
 
 ## Summary of Research
 
