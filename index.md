@@ -11,6 +11,10 @@ Pic of me!
 Editing a pic of me to be reasonable:
 
 <img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="MJHaus" title="My face" width="250" height="250" />
+
+<div style="float: right">
+	<img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="MJHaus" title="My face" width="250" height="250" />
+</div>
 	
 <img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="MJHaus" title="My face" width="250" height="250" ALIGN=”left” HSPACE=”50” VSPACE=”50” />
 
