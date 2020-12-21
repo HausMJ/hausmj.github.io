@@ -11,7 +11,7 @@ Pic of me!
 Editing a pic of me to be reasonable:
 
 <img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="MJHaus"
-	title="My face" width="150" height="100" />
+	title="My face" width="250" height="250"  ALIGN=”left” HSPACE=”50” VSPACE=”50”/>
 
 You can download my CV [here]({{ site.url }}/assets/Haus_CV.pdf).
 
