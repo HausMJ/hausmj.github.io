@@ -1,19 +1,17 @@
 ---
 layout: home
 ---
-At the top, I want rolling pics of my work.
+At the top, I want rolling pics of my work?
 
 Plant biologist who loves to study roots! I will expand on this intro to talk about beans!
 
-I need a pic of me here.
+Pic of me!
 
-First attempt to display an image here.
-
-![My Face](../assets/images/MJH_Web1.jpg)
-
-Second attempt
-
+<div style="width:150px; height:100px">
 ![My Face]({{ site.url }}/assets/images/MJH_Web1.jpg)
+</div>
+
+You can download my CV [here]({{ site.url }}/assets/Haus_CV.pdf).
 
 ## Summary of Research
 
