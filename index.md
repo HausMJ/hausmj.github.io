@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="float: left", border: 5px solid #555; margin: 19%>
+<div style="float: left", border: 5px solid #555; margin: 19%/>
 	<img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="Miranda J Haus" title="My face" width="250" height="250" />
 </div>
 I'm a USDA postdoctoral fellow who loves to study roots! My research focuses on characterizing plant developmental responses to stressors and working to mitigate negative effects in crop species. You can download my CV [here]({{ site.url }}/assets/Haus_CV.pdf).
