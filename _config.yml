@@ -4,11 +4,11 @@ subtitle: WIP # site tagline that appears below site title in masthead
 author:
   name: Miranda J. Haus name
   email: hausmira@msu.edu
-description: "Trying to get a website going."
+description: "Research Adventures"
 
 # Build settings
 remote_theme: jekyll/minima
 
 #Theme settings
 minima:
-  skin: solarized-dark
+  skin: solarized
