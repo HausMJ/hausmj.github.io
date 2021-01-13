@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div style="float: left">
-	<img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="Miranda J Haus" title="My face" width="250" height="250" />
+	<img src="{{ site.url }}/assets/images/MJH_Web1.jpg" alt="Miranda J Haus" title="My face" width="250" height="250" margin="10" />
 </div>
 I'm a USDA postdoctoral fellow who loves to study roots! My research focuses on characterizing plant developmental responses to stressors and working to mitigate negative effects in crop species. You can download my CV [here]({{ site.url }}/assets/Haus_CV.pdf).
 
@@ -18,10 +18,10 @@ I started working at Michigan State University by characterizing dry bean root a
 ### Summary of Research
 
 Short paragraph about my work.
-	Dry Bean Root Archiecture as a Means of FRR Resilience
-	Characterizing Wild Bean Response to FRR and FW
-	Characterization of Wild _Phaseolus vulgaris_ Root Architecture
-	Identify Indirect Selection on Root Architecture in Dry Bean Breeding Programs
+	- Dry Bean Root Archiecture as a Means of FRR Resilience
+	- Characterizing Wild Bean Response to FRR and FW
+	- Characterization of Wild _Phaseolus vulgaris_ Root Architecture
+	- Identify Indirect Selection on Root Architecture in Dry Bean Breeding Programs
 
 ### Professional Goals
 
