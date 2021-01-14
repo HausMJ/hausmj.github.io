@@ -1,14 +1,3 @@
 # Site Settings
 title: M. J. Haus
-subtitle: WIP # site tagline that appears below site title in masthead
-author:
-  name: Miranda J. Haus name
-  email: hausmira 'at' msu 'dot' edu
-description: "Research Adventures"
 
-# Build settings
-remote_theme: jekyll/minima
-
-#Theme settings
-minima:
-  skin: solarized
