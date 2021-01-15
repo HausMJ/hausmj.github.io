@@ -129,6 +129,11 @@ hr {
 	background-size: cover;
 	height: 520px;
 }
+.header-img-4 {
+	background: url(../img/header-img-4.jpg) no-repeat center center;
+	background-size: cover;
+	height: 520px;
+}
 
 .welcome-container {
 	background: #1b434c;
@@ -301,7 +306,7 @@ hr {
 	color: white;
 	background: rgba(0,0,0,0.5);
 }
-.green-bg { background-color: #079704; }
+.green-bg { background-color: #497061; }
 .red-bg { background-color: #aa2020; }
 .yellow-bg { background-color: #d5ba06; }
 .justify-text { text-align: justify; }
@@ -608,6 +613,7 @@ footer { background: #122f35; }
 	.header-img { height: 360px; }
 	.header-img-2 { height: 380px; }
 	.header-img-3 { height: 360px; }
+        .header-img-4 { height: 360px; }
 	.welcome-title { font-size: 20px; }
 	.blue-divider .dark-blue-bg { width: 30%; }
 	.blue-divider-bg-graphic { width: 20%; }
@@ -621,6 +627,7 @@ footer { background: #122f35; }
     .header-img { height: 270px; }
 	.header-img-2 { height: 300px; }
 	.header-img-3 { height: 280px; }
+        .header-img-4 { height: 360px; }
 	.welcome-wrapper { display: inline-block; }
 	.welcome-divider-lines-img {
 		margin-left: 10px;
