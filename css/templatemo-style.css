@@ -567,7 +567,7 @@ footer { background: #122f35; }
 	color: white;
 }
 .folio-filters li a:focus { text-decoration: none; /* Remove underline after click in IE */ }
-.folio-item { text-align: center; }
+.folio-item { float: left; text-align: center; }
 
 /* 11. Contact */
 .contact-point {
